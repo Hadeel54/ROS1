@@ -6,7 +6,7 @@ Step 1:
 Download and install VirtualBox
 
 Step 2:
-Download Ubuntu 20.04.4 LTS (Focal Fossa)
+Download Ubuntu 20.04.4 LTS (Focal Fossa) - Desktop image
 Link : https://releases.ubuntu.com/20.04.4/?_ga=2.133889290.525729052.1657570706-2012564934.1657297505
 
 Step 3:
